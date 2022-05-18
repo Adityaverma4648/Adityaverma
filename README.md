@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @buttkicker3124
+- 👋 Hi, I’m @adityaVerma
 - 👀 I’m interested in ...Full stack web dev.
 - 🌱 I’m currently learning ...React js, Node js. 
 - 💞️ I’m looking to collaborate on ...
