@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...adityaverma4648@gmail.com
 - 🌐 Visit my portfolio on ..https://buttkicker3124.github.io/adityaVerma-portfolio.github.io/
+- Project links :  
+- Netflix Clone : https://buttkicker3124.github.io/Netflix-clone-frontend/
 
 <!---
 buttkicker3124/buttkicker3124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
